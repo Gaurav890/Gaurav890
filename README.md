@@ -10,7 +10,9 @@
 
 ## 🚀 About Me
 
-I'm an **AI Product Manager** at **fAIshion Inc.**, where I'm building virtual try-on and fashion recommendation systems. I bridge the gap between cutting-edge AI/ML technology and real-world user needs, with 3+ years of experience shipping user-centered products.
+Over the past 3+ years, I've built AI-powered virtual try-on platforms, scaled enterprise CMS solutions serving 100K+ businesses, and led cloud infrastructure modernization. My work has driven 100%+ traffic growth, 600%+ conversion improvements, and helped teams ship 3x faster.
+
+Currently finishing my CS Master's at San Francisco Bay University (graduating Dec 2025). When I'm not building products, I'm mentoring students, watching sci-fi or exploring Oakland's coffee scene.
 
 🎓 **MS in Computer Science** | San Francisco Bay University (Graduating Dec 2025)  
 🏆 **Cal Hacks 12.0 Winner** - Best Use of Claude for ELDA.ai (AI eldercare assistant)  
