@@ -59,27 +59,12 @@ I'm an **AI Product Manager** at **fAIshion Inc.**, where I'm building virtual t
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav890&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav890&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav890&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- This section will be auto-updated by GitHub Actions -->
-<!--END_SECTION:activity-->
-
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gaurav890&theme=tokyo-night&hide_border=true)
-
----
 
 ## 📫 Let's Connect!
 
