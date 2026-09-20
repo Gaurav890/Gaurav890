@@ -68,6 +68,10 @@ Currently finishing my CS Master's at San Francisco Bay University (graduating D
 
 </div>
 
+## AI Build
+
+[![Gaurav890's AI build card](https://ai-native-profile.vercel.app/api/v1/cards/Gaurav890?theme=light)](https://ai-native-profile.vercel.app/u/Gaurav890)
+
 ## 📫 Let's Connect!
 
 <div align="center">
