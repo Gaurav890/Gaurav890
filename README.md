@@ -70,7 +70,7 @@ Currently finishing my CS Master's at San Francisco Bay University (graduating D
 
 ## AI Build
 
-[![Gaurav890's AI build card](https://ai-native-profile.vercel.app/api/v1/cards/Gaurav890?theme=dark)](https://ai-native-profile.vercel.app/make/Gaurav890)
+[![Gaurav890's tokpop.dev — AI workflow stats](https://tokpop.dev/api/v1/cards/Gaurav890?theme=dark)](https://tokpop.dev/make/Gaurav890)
 
 ## 📫 Let's Connect!
 
